@@ -1,5 +1,5 @@
 # ADOG - Anotating Data with Ontologies andGraphs
-ADOG is a system focused on leveraging the structure of a well-connected ontology graph extracted from different Knowledge Graphs to annotate structured or semi-structured data. The [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching](http://www.cs.ox.ac.uk/isg/challenges/sem-tab) provided us with the means to test the system within the more restricted scenario of annotating data with a single ontology. 
+ADOG is a system focused on leveraging the structure of a well-connected ontology graph extracted from different Knowledge Graphs to annotate structured or semi-structured data. The [Semantic Web Challenge on Tabular Data to Knowledge Graph Matching](http://www.cs.ox.ac.uk/isg/challenges/sem-tab) provided us with the means to test the system within the more restricted scenario of annotating data with a single ontology. The code hosted in this repository was used to compute the results submitted to the Round 2 of the Challenge. 
 
 ADOG is still in an early phase of development.
 
