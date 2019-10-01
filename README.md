@@ -17,8 +17,8 @@ ADOG is a system focused on leveraging the structure of a well-connected ontolog
   * owlready2
   
 ## Backend
-  * Elasticsearch
-  * ArangoDB
+  * [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+  * [ArangoDB](https://www.arangodb.com)
   
 # Framework
   1. Load DBPedia into Elasticsearch ([index_dbpedia.py](https://github.com/danielapoliveira/iswc-annotation-challenge/blob/master/code/index_dbpedia.py))
