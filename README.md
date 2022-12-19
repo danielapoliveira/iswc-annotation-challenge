@@ -26,5 +26,6 @@ ADOG is a system focused on leveraging the structure of a well-connected ontolog
   3. Run [challenge.py](https://github.com/danielapoliveira/iswc-annotation-challenge/blob/master/code/challenge.py) with the option ```-c``` pointing to the config file
   
  # References
-   * Daniela Oliveira and Mathieu d'Aquin. [ADOG - Anotating Data with Ontologies and Graphs.](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/ADOG.pdf)
-   * Daniela Oliveira, Ratnesh Sahay, Mathieu d'Aquin. [Leveraging Ontologies for Knowledge Graph Schemas.](https://openreview.net/pdf?id=B1xnsmvaUE)
+   * D. Oliveira and M. D’Aquin, “ADOG - Annotating Data with Ontologies and Graphs,” in Proceedings of the Semantic Web Challenge on Tabular Data to Knowledge Graph Matching co-located with the 18th International Semantic Web Conference, 2019, vol. 2553, p. 6. [Online]. Available: http://ceur-ws.org/Vol-2553/paper1.pdf
+   * D. Oliveira, R. Sahay, and M. d’Aquin, “Leveraging Ontologies for Knowledge Graph Schemas,” in Proceedings of the 1st Workshop on Knowledge Graph Building co-located with ESWC 2019, Portoroz, Slovenia, 2019, vol. 2489, pp. 24–36. [Online]. Available: http://ceur-ws.org/Vol-2489/paper3.pdf
+
